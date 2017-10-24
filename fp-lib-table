@@ -1,0 +1,6 @@
+(fp_lib_table
+  (lib (name Capacitors_Smd_0805)(type KiCad)(uri "$(KIPRJMOD)/Pcb/Capacitors/Smd_0805/Capacitors_Smd_0805.pretty")(options "")(descr ""))
+  (lib (name Goldpin)(type KiCad)(uri "$(KIPRJMOD)/Pcb/Goldpin/Discrete_Goldpin/Goldpin.pretty")(options "")(descr ""))
+  (lib (name GPS_Module)(type KiCad)(uri "$(KIPRJMOD)/Pcb/Gps_Module/Quectel/GPS_Module.pretty")(options "")(descr ""))
+  (lib (name Resistor_Smd_0805)(type KiCad)(uri "$(KIPRJMOD)/Pcb/Resistors/Smd_0805/Resistor_Smd_0805.pretty")(options "")(descr ""))
+)

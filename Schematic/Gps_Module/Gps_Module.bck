@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP L80_Quectel
+D GPS L80 Module Series
+K GPS
+F Gps_Module/Components_Documentation/Quectel_L80_Hardware_Design_V1.4.pdf
+$ENDCMP
+#
+#End Doc Library
